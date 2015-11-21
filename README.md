@@ -4,7 +4,7 @@
 
 
 
-How to use this python script(modify by recall704) ?
+How to use this python script (modify by recall704) ?
 -------------------------------
 ```bash
 sudo apt-get install libevent-dev
