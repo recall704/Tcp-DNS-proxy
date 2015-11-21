@@ -364,7 +364,8 @@ class ThreadedUDPRequestHandler(SocketServer.BaseRequestHandler):
         transfer(data, addr, socket)
 
 
-from daemon import Daemon
+# from daemon import Daemon
+from python_daemon.daemon import Daemon
 class RunDaemon(Daemon):
 
     def run(self):
