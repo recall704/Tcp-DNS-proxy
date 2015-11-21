@@ -36,7 +36,7 @@ import json
 import time
 from fnmatch import fnmatch
 import logging
-import third_party
+# import third_party
 from pylru import lrucache
 import ctypes
 
